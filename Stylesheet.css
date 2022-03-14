@@ -105,7 +105,49 @@ header{
     color: black;
 }    
     /*Style bagian Main*/
-
+    .heading {
+        padding-top: 60px;
+        padding-bottom: 30px;
+        color: white;
+     }
+     .heading h2 {
+         font-weight: normal;
+         font-size: 24px;
+         font-family: Averia Serif Libre;
+     }
+     .culinary-culture{
+         height: 500px;
+         padding-bottom: 80px;
+         text-align:center;
+     }
+     .culinary{
+         float: left;
+         width: 33%;
+     }
+     .culinary-icon{
+         position: relative;
+     }
+     .culinary-icon h3{
+         color: #FF8A00;
+         position: absolute;
+         width: 100%;
+         top: 127px;
+         font-size: 20px;
+     }
+     .txt-contents{
+         width: 50%;
+         display: inline-block;
+         margin-top: 50px;
+         font-size: 13px;
+         color: white;
+     }
+     .link{
+         width: 50%;
+         display: inline-block;
+         margin-top: 15px;
+         font-size: 13px;
+         color:#FF8A00;
+     }
     /*Style bagian About Us*/
 .container {
     width: 100%;

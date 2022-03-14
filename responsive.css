@@ -1,4 +1,18 @@
 @media all and (max-width: 1000px) {
+      h1 {
+        font-size:75px;
+      }
+      
+      h2{
+        font-size: 20px;
+      }
+      
+      .content-p{
+        font-size: 11px;
+        letter-spacing: 1px;
+        line-height:16px;
+      }
+    
     footer{
         flex-direction: row;
     }
@@ -14,6 +28,20 @@
     }
 }
 @media all and (max-width: 670px) {
+    h1 {
+        font-size:70px;
+      }
+      
+      h2{
+        font-size: 18px;
+      }
+      
+      .content-p{
+        font-size: 10px;
+        letter-spacing: 1px;
+        line-height:16px;
+      }
+    
     footer{
         flex-direction: column;
     }
