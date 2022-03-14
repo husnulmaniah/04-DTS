@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Saira+Condensed:wght@600&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+    background-color: rgb(0, 0, 0);
+}
+
+    /*Style bagian Navbar*/
+navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    padding-left: 19px;
+    padding-right: 19px;
+    height: 41px;
+    top: 3px;
+}
+
+.header-logo {
+    float: left;
+    font-size: 26px;
+    padding: 20px 40px;
+    font-family: "Saira Condensed", sans-serif;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    padding-left: 19px;
+    padding-top: 3px;
+    width: 53px;
+    height: 41px;
+
+  }
+.header-list li, a, span {
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+font-size: 12px;
+color: rgb(255, 255, 255);
+text-decoration:none;
+}
+
+.header-list{
+    list-style: none;
+}
+
+.header-list li{
+    display: inline-block;
+    padding: 0px 25px
+}
+
+.header-list li a{
+    transition: all 0.3 ease 0s;
+}
+
+.header-list li a:hover{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+span {
+    padding: 9px 5px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+span:hover{
+    background-color: rgb(26, 26, 26);
+}
+
+
+    /*Style bagian Slide Header*/
+
+
+
+
+
+
+
+    
+    /*Style bagian Main*/
+
+
+
+
+    
+
+    
+    /*Style bagian Footer*/
