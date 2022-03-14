@@ -1,0 +1,27 @@
+@media all and (max-width: 1000px) {
+    footer{
+        flex-direction: row;
+    }
+    .contact-us{
+        width: 30%;
+        margin: 10px;
+        margin-left: 25px;
+        line-height: 20px;
+    }
+    .suggestion{
+        width: 63%;
+        margin-left: 15px;
+    }
+}
+@media all and (max-width: 670px) {
+    footer{
+        flex-direction: column;
+    }
+    .contact-us{
+        width: 100%;
+    }
+    .suggestion{
+        width: 90%;
+        margin-left:25px;
+    }
+}

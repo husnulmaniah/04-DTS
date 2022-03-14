@@ -87,3 +87,72 @@ span:hover{
 
     
     /*Style bagian Footer*/
+    footer{
+        background-color: black;
+        color: white;
+        height: 40%;
+        display: flex;
+        flex-direction: row;
+    }
+    .contact-us {
+        width: 30%;
+        margin: 10px;
+        margin-left: 35px;
+        line-height: 20px;
+    }
+    .contact-us p{
+        margin-top: 15px;
+    }
+    .media-sosial a{
+        text-decoration: none;
+        color: white;
+        margin-top: 15px;
+        line-height: 35px;
+    }
+    .suggestion{
+        width: 63%;
+        margin-left: 15px;
+        background-color: black;
+    }
+    
+    .suggestion input{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        background-color: #494949;
+    }
+    .suggestion textarea{
+        width: 100%;
+        height: 150px;
+        padding: 12px 20px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        background-color: #494949;
+        resize: none;
+        margin-top: 10px;
+    }
+    .suggestion button{
+        background-color: #603601;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 15px;
+        margin-bottom: 15px;
+    }
+    .footer-bottom{
+        font-size: 10px;
+        text-align: center;
+        padding: 15px;
+        background-color: black;
+        color: white;
+        margin-bottom: 10px;
+    }
+    .footer-bottom a{
+        text-decoration: none;
+        color: white;
+    }
