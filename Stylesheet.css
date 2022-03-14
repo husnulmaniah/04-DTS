@@ -112,6 +112,7 @@ span:hover{
   color:#fff;
   text-align: center;
   padding-top: 60px;
+  line-height:30px;
 }
 
 h1 {
@@ -123,7 +124,8 @@ h1 {
 h2{
   font-family:'Averia Serif Libre';
   font-size: 24px;
-letter-spacing: normal;
+  letter-spacing: normal;
+  padding-top:65px;
 }
 
 .content-p{
