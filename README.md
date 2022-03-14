@@ -1,2 +1,2 @@
-# 04-DTS
-Variety Of Indonesian Culinary Culture
+# 04-Variety Of Indonesian Culinary Culture
+Variety of Indonesia Culinary Culture (VOICE) merupakan platform yang memberikan informasi seputar ragam budaya kuliner yang ada di Indonesia. Berdiri sejak tahun 2022 oleh Fitria Ratna, Gesi Puspita, Habidin Adeprayoga, Husnul Maniah, dan Imam Wahyudin; diharapkan VOICE dapat memberi warna dalam pengetahuan informasi yang dibutuhkan oleh masyarakat mengenai budaya kuliner sekitar. Tidak hanya memberikan informasi, VOICE juga dapat menampung saran dari pengunjung yang ingin menambahkan informasi dalam platform.
