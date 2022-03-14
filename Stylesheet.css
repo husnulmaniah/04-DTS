@@ -152,6 +152,10 @@ letter-spacing: normal;
         margin-left: 35px;
         line-height: 20px;
     }
+    .contact-us h1{
+        margin-top: 15px;
+        font-size: 35px;
+    }
     .contact-us p{
         margin-top: 15px;
     }
@@ -165,6 +169,9 @@ letter-spacing: normal;
         width: 63%;
         margin-left: 15px;
         background-color: black;
+    }
+    .suggestion h1{
+        font-size: 35px;
     }
     
     .suggestion input{
