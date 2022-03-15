@@ -75,23 +75,19 @@ header{
     height: 690px;
 }
 
-.container-header{
+.wrapper{
     text-align: center;
     padding-top: 130px;
 }
 
-.container-header p{
+.wrapper p{
     color: rgb(241, 241, 241);
     font-size: 30px;
 }
 
-.container-header h1{
+.wrapper h1{
     color: white;
     line-height: 90px;
-}
-
-.search-form{
-    padding-top: 40px;
 }
 
 #search{
@@ -99,11 +95,12 @@ header{
     height: 40px;
     padding-left: 25px;
     border-radius: 15px;
+    border-style: none;
 }
 
-.search-icon{
+.search{
     position: relative;
-    top: 30px;
+    top: 36px;
     right: 235px;
     height: 25px;
     color: black;
@@ -288,25 +285,11 @@ footer{
     border: none;
     color: white;
     padding: 16px 32px;
-    text-align: center;
     text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
     margin: 4px 2px;
-    transition-duration: 0.4s;
     cursor: pointer;
     border-radius: 15px;
-    margin-bottom: 15px; 
-}
-.suggestion button {
-    background-color: #603601;
-    color: white;
-}
-.suggestion button:hover{
-    background-color: white; 
-    color: black; 
-    border: 2px solid #603601;
-    
+    margin-bottom: 15px;
 }
 .footer-bottom{
     font-size: 10px;
