@@ -75,19 +75,23 @@ header{
     height: 690px;
 }
 
-.wrapper{
+.container-header{
     text-align: center;
     padding-top: 130px;
 }
 
-.wrapper p{
+.container-header p{
     color: rgb(241, 241, 241);
     font-size: 30px;
 }
 
-.wrapper h1{
+.container-header h1{
     color: white;
     line-height: 90px;
+}
+
+.search-form{
+    padding-top: 40px;
 }
 
 #search{
@@ -97,7 +101,7 @@ header{
     border-radius: 15px;
 }
 
-.search{
+.search-icon{
     position: relative;
     top: 30px;
     right: 235px;
