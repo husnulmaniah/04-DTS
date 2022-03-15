@@ -112,33 +112,51 @@ header{
      }
      .heading h2 {
          font-weight: normal;
-         font-size: 24px;
+         font-size: 60px;
          font-family: Averia Serif Libre;
      }
      .culinary-culture{
-         height: 500px;
-         padding-bottom: 80px;
-         text-align:center;
+         height: 700px;
+         text-align:center; 
+         background-color: #0E0E0E;
+     }
+     .culinaryy{
+         
+         margin-left: 100px;
      }
      .culinary{
+         margin: 20px;
+         border: 1px solid #0E0E0E;
          float: left;
-         width: 33%;
-     }
-     .culinary-icon{
+         width: 330px;
          position: relative;
+     }
+     .culinary p{
+         padding: 15px;
+         text-align: center;
+     }
+         /* .culinary-icon{
+             position: relative;
+             width: 100%;
+             height: auto;
+             margin: 10px;
+         } */
+     .culinary img{
+         width: 100%;
+         height: 200px;
+         border-radius: 10px;
      }
      .culinary-icon h3{
          color: #FF8A00;
-         position: absolute;
-         width: 100%;
-         top: 127px;
-         font-size: 20px;
+         /* position: absolute; */
+         font-size: 25px;
+         padding: 15px;
+         text-align: center;
      }
      .txt-contents{
-         width: 50%;
+         width: 100%;
          display: inline-block;
-         margin-top: 50px;
-         font-size: 13px;
+         font-size: 15px;
          color: white;
      }
      .link{
@@ -147,6 +165,10 @@ header{
          margin-top: 15px;
          font-size: 13px;
          color:#FF8A00;
+     }
+     a:hover{
+         color: white;
+         font-size: 14px;
      }
     /*Style bagian About Us*/
 .container {
